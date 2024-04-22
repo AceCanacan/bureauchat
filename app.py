@@ -73,7 +73,7 @@ department_questions = {
 
 logging.basicConfig(level=logging.INFO)
 
-st.sidebar.title('Bureau-Chat')
+st.sidebar.title('🏢 Bureau-Chat 🏢')
 st.sidebar.write('Welcome to Bureau-Chat! Your go-to AI chatbot for inquiries about our government organizations. Simply select the organization you’re interested in and start chatting.')
 
 # Initialize session state for tracking department selection changes
