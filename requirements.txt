@@ -1,6 +1,9 @@
 pandas
 openai
-python-dotenv
 streamlit
+python-dotenv
 llama_index
+IPython
 chromadb
+llama-index-vector-stores-chroma
+pysqlite3-binary
