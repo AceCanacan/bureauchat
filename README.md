@@ -1,4 +1,4 @@
-# Bureau-Chat 🤖
+# Bureau-Chat 🏢
 
 Bureau-Chat is a specialized chatbot designed to provide streamlined access to a vast database of government documents, including citizen's charters, manuals, and handbooks from multiple government organizations. Utilizing advanced AI technologies such as OpenAI's embeddings and llama_index, Bureau-Chat enables efficient querying and data retrieval without offering direct advice. This application empowers users to access essential information regarding government processes, ensuring they can conduct informed discussions and gain a better understanding of bureaucratic procedures. [Visit the App](https://bureauchat-ai.streamlit.app/)
 
